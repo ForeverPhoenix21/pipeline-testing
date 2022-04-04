@@ -2,6 +2,7 @@
   "name": "pipeline-testing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://foreverphoenix21.github.io/pipeline-testing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
